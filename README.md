@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Articulatw
 - 👀 I’m interested in UX 
 - 🌱 I’m currently learning Product design
-- 💞️ I’m looking to creating beautiful designs.
+- 💞️ I’m looking forward to creating beautiful designs.
 - 📫 And meeting great developers 
 
 <!---
